@@ -1,0 +1,6 @@
+1;Добавить;add_row
+2;Удалить;delete_row
+3;Изменить;change_row
+4;Вывод;print_file
+5;Копирование данных;copy_row
+6;Выход;exit
